@@ -18,4 +18,4 @@ export const projects = [
     
 ]
 
-export const skills = ["HTML", "JavaScript", "CSS (bootstrap/tailwind)", "SQL", "MongoDB", "React", "Node", "GraphQL-Apollo"]
+export const skills = ["HTML", "MongoDB", "CSS (bootstrap/tailwind)", "Express", "JavaScript", "React", "GraphQL-Apollo", "Node"]
