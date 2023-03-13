@@ -13,7 +13,7 @@ function About () {
                  I have a background in chemistry and I enjoy solving complex puzzles. I fell in love with science as a little girl. 
                  I loved the complexity of knowing how things function and the continuous search for solutions. 
                  I did some research and decided to explore coding. I enjoy the ever changing technologies and the numerous possibilities that come with each language. 
-                 Feel free to look around and Contact me with any questions.
+                 Feel free to look around and contact me with any questions.
                     
                 </p>
               <div className="flex justify-center">
